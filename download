@@ -1,0 +1,18 @@
+# Artefactos de Roblox
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Wally
+Packages/
+ServerPackages/
+DevPackages/
+wally.lock
+
+# Toolchain
+sourcemap.json
+
+# OS
+.DS_Store
+Thumbs.db
